@@ -14,9 +14,34 @@ This project demonstrate JWT Authentication and it is integreted with Swagger UI
    In <i>/auth/register</i> enter the email & password<br>
    Then in <i>/auth/login</i> enter registered credential then execute<br>
    Then go to <b>Authorize</b> button click and paste the generated token <b>do not use format like <i>Bearer <token-link></i></b><br>
-   Then click authorize and go to <i>/api/user/me</i> to see the hidden massage<br>
- 
- </p>
+   Then click authorize and go to <i>/api/user/me</i> to see the hidden massage<br><br>
+     
+   <b>Step wise proof of Swagger wokring flow</b><br>
+   <i>Swagger UI</i>
+   <p align="center">
+    <img src="./image_1.png" width="400">
+  </p><br>
+  <i>Register (/auth/register)</i>
+   <p align="center">
+    <img src="./image_2.png" width="400"><br>
+     <b>Status (200) ok</b>
+  </p><br>
+  <i>Login (/auth/login) </i>
+   <p align="center">
+    <img src="./image_3.png" width="400"><br>
+     <b>Status (200) ok</b>
+  </p><br>
+  <i>Authorizing Token</i>
+   <p align="center">
+    <img src="./image_4.png" width="400"><br>
+     <b>Authorizing Token generated after login</b>
+  </p><br>
+  <i>(/api/user/me)</i>
+   <p align="center">
+    <img src="./image_5.png" width="400"><br>
+     <b>Status (200) ok</b>
+  </p><br>
+  </p>
 </p>
 <h2>Folder Responsibility</h2>
 <p>
