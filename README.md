@@ -16,9 +16,7 @@ This project demonstrate JWT Authentication and it is integreted with Swagger UI
    Then go to <b>Authorize</b> button click and paste the generated token <b>do not use format like <i>Bearer <token-link></i></b><br>
    Then click authorize and go to <i>/api/user/me</i> to see the hidden massage<br>
    Step wise images inSwagger
-     <b>Step 1</b> 
-     ![image alt](https://github.com/ayusseth/JWT/blob/75ba6eecbe7801a5928b9db077c5c39839a6811f/image_1.png)
-     <b>Step 2</b> 
+    
  </p>
 </p>
 <h2>Folder Responsibility</h2>
