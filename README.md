@@ -15,7 +15,7 @@ This project demonstrate JWT Authentication and it is integreted with Swagger UI
    Then in <i>/auth/login</i> enter registered credential then execute<br>
    Then go to <b>Authorize</b> button click and paste the generated token <b>do not use format like <i>Bearer <token-link></i></b><br>
    Then click authorize and go to <i>/api/user/me</i> to see the hidden massage<br>
-   ![known](https://github.com/user-attachments/assets/cc5fd4bd-08ad-42f3-aa98-b192d586ca97)
+ 
  </p>
 </p>
 <h2>Folder Responsibility</h2>
